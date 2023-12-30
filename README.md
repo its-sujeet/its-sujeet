@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security And Blockchain
 -----------------------------
 
-* 🌍  I'm based in Phagwara India
+* 🌍  I'm based in Phagwara, India
 * ✉️  You can contact me at [sujeetkumar7846540@gmail.com](mailto:sujeetkumar7846540@gmail.com)
 
 ### Skills
