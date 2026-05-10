@@ -41,6 +41,10 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.github.com/its-sujeet" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/its--sujeet/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://www.x.com/Its___sujeet" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.github.com/its-sujeet" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a></td>
+    <td><a href="https://www.linkedin.com/in/its--sujeet/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a></td>
+    <td><a href="https://www.x.com/Its___sujeet" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a></td>
+  </tr>
+</table>
