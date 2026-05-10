@@ -31,6 +31,7 @@
 
 ### 🏅 Certifications
 - ✅ **CompTIA Network+** (Completed)
+- ✅ **QuickHeal Certified Digital Forensic Investigator** (Completed)
 - 🎯 More certifications in progress (Blockchain Security, Ethical Hacking, etc.)
 
 ---
