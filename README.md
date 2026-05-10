@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,nodejs,linux,bash,docker,git,solidity,postgres" alt="Tech Stack" />
 </p>
 
@@ -40,7 +40,7 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.github.com/its-sujeet" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/its--sujeet/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
   <a href="https://www.x.com/Its___sujeet" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
